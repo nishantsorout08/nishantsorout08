@@ -4,8 +4,8 @@
 </p>
 
 <h2 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="30" />
-  Cloud & DevOps Engineer
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35"/>
+  ♾️ Cloud & DevOps Engineer
 </h2>
 
 <p align="center">
