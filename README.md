@@ -3,11 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Sorout&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://www.svgrepo.com/show/354447/devops.svg" width="60" />
-</p>
-
-<h2 align="center">Cloud & DevOps Engineer</h2>
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="30" />
+  Cloud & DevOps Engineer
+</h2>
 
 <p align="center">
   AWS • Terraform • Docker • CI/CD • Cloud Security • Kubernetes
@@ -92,7 +91,6 @@ EC2 • ECS • EKS • S3 • CloudFront • Route 53 • IAM • RDS • ALB �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
