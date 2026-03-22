@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Sorout&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">🚀 Cloud & DevOps Engineer</h2>
+<p align="center">
+  <img src="https://www.svgrepo.com/show/354447/devops.svg" width="60" />
+</p>
+
+<h2 align="center">Cloud & DevOps Engineer</h2>
 
 <p align="center">
   AWS • Terraform • Docker • CI/CD • Cloud Security • Kubernetes
