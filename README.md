@@ -1,78 +1,113 @@
-<!-- Banner -->
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nishant%20Sorout&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,20,24&height=220&section=header&text=Nishant%20Sorout&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
 </p>
 
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35"/>
-  ♾️ Cloud & DevOps Engineer
-</h2>
-
+<!-- ===================== TAGLINE ===================== -->
 <p align="center">
-  AWS • Terraform • Kubernetes (EKS/ROSA) • GitOps & ArgoCD • CI/CD • Cloud Security • FinOps
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C8EBB&center=true&vCenter=true&width=650&lines=Building+scalable+%26+secure+AWS+infrastructure;Automating+everything+with+GitOps+%26+CI%2FCD;Cross-cloud+migrations+%7C+GCP+%26+Azure+%E2%86%92+AWS;Cloud+Security+%E2%80%A2+FinOps+%E2%80%A2+Kubernetes" />
 </p>
 
+<!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
   <a href="https://linkedin.com/in/nishantsorout08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nishantsorout07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2C8EBB&label=PROFILE+VIEWS" />
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
 
-Cloud & DevOps Engineer with **1.5+ years** of experience designing, automating, and securing **multi-account AWS** environments. I work across the full lifecycle — Infrastructure as Code, GitOps-driven Kubernetes delivery, cloud security, and cost optimization.
+> Cloud & DevOps Engineer with **1.5+ years** of experience designing, automating, and securing **multi-account AWS** environments. I work across the full lifecycle — Infrastructure as Code, GitOps-driven Kubernetes delivery, cloud security, and cost optimization.
 
-- ☁️ Building scalable, secure infrastructure across a multi-account AWS Organization
-- 🔁 Leading cross-cloud migrations — **GCP → AWS** and **Azure → AWS** (multi-region EKS)
-- ⚙️ Automating delivery with **GitOps (ArgoCD)** and **CI/CD** pipelines
-- 🔐 Enforcing cloud security — IAM, WAF, KMS, SAST/DAST, DPDP compliance
-- 🪪 Federating identity — **AWS IAM Identity Center + Azure Entra ID (SAML/SCIM)**
-- 💰 Driving **FinOps** — serverless cost-reporting automation & cost optimization
-- 📊 Implementing observability with **Prometheus, Grafana & CloudWatch**
-- ✍️ Writing deep-dive technical blogs on Kubernetes, Terraform internals & DR
+- ☁️ &nbsp; Building scalable, secure infrastructure across a multi-account **AWS Organization**
+- 🔁 &nbsp; Leading cross-cloud migrations — **GCP → AWS** and **Azure → AWS** (multi-region EKS)
+- ⚙️ &nbsp; Automating delivery with **GitOps (ArgoCD)** and **CI/CD** pipelines
+- 🔐 &nbsp; Enforcing cloud security — IAM, WAF, KMS, SAST/DAST, DPDP compliance
+- 🪪 &nbsp; Federating identity — **IAM Identity Center + Azure Entra ID (SAML/SCIM)**
+- 💰 &nbsp; Driving **FinOps** — serverless cost-reporting automation & optimization
+- 📊 &nbsp; Observability with **Prometheus, Grafana & CloudWatch**
+- ✍️ &nbsp; Writing deep-dive technical blogs on Kubernetes, Terraform & DR
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
 
-### ☁️ Cloud & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+<!-- ===================== TECH STACK ===================== -->
+<h3 align="center">🛠️ &nbsp; Tech Stack &nbsp; 🛠️</h3>
+
+<p align="center"><b>☁️ Cloud & Platforms</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-### ⚙️ DevOps, IaC & Containers
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,jenkins,githubactions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" />
+<p align="center"><b>⚙️ DevOps, IaC & Containers</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<p align="center"><b>📊 Monitoring & Observability</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
 </p>
 
-### 💻 Scripting, Automation & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux" />
+<p align="center"><b>💻 Languages & Scripting</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<br/>
 
-## 🧰 AWS Services
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
 
-**Compute & Containers:** EC2 • ECS • EKS • Lambda
-**Networking & Delivery:** VPC • Route 53 • CloudFront • ALB • Client VPN
-**Storage & Data:** S3 • RDS/Aurora • DynamoDB
-**Security & Identity:** IAM • IAM Identity Center (SSO) • WAF • KMS • Shield
-**Ops & Cost:** CloudWatch • EventBridge • SNS • SQS • SES • Cost Explorer • Organizations • Control Tower • Systems Manager
+<!-- ===================== AWS SERVICES ===================== -->
+<h3 align="center">🧰 &nbsp; AWS Services</h3>
 
----
+<table align="center">
+  <tr>
+    <td align="center"><b>Compute & Containers</b></td>
+    <td>EC2 · ECS · EKS · Lambda</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Networking & Delivery</b></td>
+    <td>VPC · Route 53 · CloudFront · ALB · Client VPN</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Storage & Data</b></td>
+    <td>S3 · RDS / Aurora · DynamoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security & Identity</b></td>
+    <td>IAM · IAM Identity Center (SSO) · WAF · KMS · Shield</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ops, Cost & Governance</b></td>
+    <td>CloudWatch · EventBridge · SNS · SQS · SES · Cost Explorer · Organizations · Control Tower · Systems Manager</td>
+  </tr>
+</table>
 
-## 💼 Experience
+<br/>
 
-### 🚀 Cloud & DevOps Engineer — Bellblaze Technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+
+<!-- ===================== EXPERIENCE ===================== -->
+<h3 align="center">💼 &nbsp; Experience</h3>
+
+**🚀 Cloud & DevOps Engineer** — *Bellblaze Technologies* &nbsp; \`Feb 2025 – Present\`
 - Architected and deployed production AWS infrastructure using **Terraform** (S3 backend, DynamoDB state locking) across a multi-account AWS Organization
 - Migrated client workloads across clouds — **GCP → AWS** (websites + portals) and **Azure → AWS** (multi-region EKS) — with zero downtime
 - Built **GitOps CI/CD** pipelines with **ArgoCD** and GitHub Actions for automated, reliable deployments
@@ -81,44 +116,63 @@ Cloud & DevOps Engineer with **1.5+ years** of experience designing, automating,
 - Implemented end-to-end **observability** (Prometheus, Grafana w/ Entra ID SSO, CloudWatch); L2 on-call engineer owning P1 incidents
 - Performed cloud **security assessments** and enforced WAF, KMS, SAST/DAST aligned with DPDP compliance
 
-### ☁️ AWS Cloud Engineer Trainee — TATA STRIVE (Airbus)
+**☁️ AWS Cloud Engineer Trainee** — *TATA STRIVE (Airbus)* &nbsp; \`Aug 2024 – Jan 2025\`
 - Hands-on with EC2, S3, IAM, ECS, RDS, Lambda, CloudFront, Route 53
 - Docker-based containerized deployments with auto-scaling and load balancing
 - Built CI/CD pipelines with GitHub Actions for automated container builds
 
----
+<br/>
 
-## ✍️ Technical Blog
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
 
-I publish deep-dive engineering blogs that break down how things actually work under the hood — in plain language for engineers and newcomers alike.
+<!-- ===================== BLOG ===================== -->
+<h3 align="center">✍️ &nbsp; Technical Blog</h3>
 
-- **What Actually Happens Inside Kubernetes: The Hidden Cost of `kubectl apply`**
-- **How Terraform Really Tracks State: Drift, Diffs & the Apply Lifecycle**
-- **Why DR Plans Fail: Failover Mechanics and RTO/RPO in Practice**
+<p align="center"><i>Deep-dive engineering blogs that break down how things actually work under the hood — in plain language for engineers and newcomers alike.</i></p>
 
-*In the pipeline:* AWS + Entra ID SSO federation • Multi-account AWS access models • Serverless cost-reporting pipelines • Least-privilege patterns • DDoS vs. DoS (attacker perspective)
+<table align="center">
+  <tr>
+    <td>📦</td>
+    <td><b>What Actually Happens Inside Kubernetes</b><br/><sub>The Hidden Cost of <code>kubectl apply</code></sub></td>
+  </tr>
+  <tr>
+    <td>🗺️</td>
+    <td><b>How Terraform Really Tracks State</b><br/><sub>Drift, Diffs & the Apply Lifecycle</sub></td>
+  </tr>
+  <tr>
+    <td>🛟</td>
+    <td><b>Why DR Plans Fail</b><br/><sub>Failover Mechanics and RTO/RPO in Practice</sub></td>
+  </tr>
+</table>
 
----
+<p align="center"><sub><b>In the pipeline:</b> AWS + Entra ID SSO federation · Multi-account AWS access models · Serverless cost-reporting pipelines · Least-privilege patterns · DDoS vs. DoS (attacker perspective)</sub></p>
 
-## 🏆 Certifications
+<br/>
 
-- **AWS Certified Cloud Practitioner** — Amazon Web Services
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
 
----
-
-## 📊 GitHub Stats
+<!-- ===================== CERTIFICATIONS ===================== -->
+<h3 align="center">🏆 &nbsp; Certifications</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h3 align="center">📊 &nbsp; GitHub Stats</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C8EBB&icon_color=2C8EBB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C8EBB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=2C8EBB&fire=FF9900&currStreakLabel=2C8EBB" />
 </p>
 
----
-
-<p align="center">
-  ⚡ Building scalable cloud systems | Automating everything ⚡
-</p>
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,20,24&height=120&section=footer&text=Building%20scalable%20cloud%20systems%20%E2%9A%A1%20Automating%20everything&fontSize=16&fontColor=ffffff&fontAlignY=70" />
