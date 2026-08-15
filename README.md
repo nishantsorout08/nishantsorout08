@@ -125,13 +125,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nishantsorout08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=4A90D9&icon_color=87CEEB" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsorout08&layout=compact&theme=tokyonight&hide_border=true&title_color=4A90D9" />
-</p>
-
 ---
 
 <p align="center"><i>⚡ Building scalable cloud systems · Automating everything ⚡</i></p>
