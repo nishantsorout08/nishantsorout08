@@ -1,11 +1,11 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,20,24&height=220&section=header&text=Nishant%20Sorout&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:4A90D9,100:5B4FBE&height=220&section=header&text=Nishant%20Sorout&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
 </p>
 
 <!-- ===================== TAGLINE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C8EBB&center=true&vCenter=true&width=650&lines=Building+scalable+%26+secure+AWS+infrastructure;Automating+everything+with+GitOps+%26+CI%2FCD;Cross-cloud+migrations+%7C+GCP+%26+Azure+%E2%86%92+AWS;Cloud+Security+%E2%80%A2+FinOps+%E2%80%A2+Kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=Building+scalable+%26+secure+AWS+infrastructure;Automating+everything+with+GitOps+%26+CI%2FCD;Cross-cloud+migrations+%7C+GCP+%26+Azure+to+AWS;Cloud+Security+%E2%80%A2+FinOps+%E2%80%A2+Kubernetes" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -13,13 +13,13 @@
   <a href="https://linkedin.com/in/nishantsorout08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nishantsorout07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2C8EBB&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=nishantsorout08&style=for-the-badge&color=4A90D9&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
+<h2>👨‍💻 About Me</h2>
 
 > Cloud & DevOps Engineer with **1.5+ years** of experience designing, automating, and securing **multi-account AWS** environments. I work across the full lifecycle — Infrastructure as Code, GitOps-driven Kubernetes delivery, cloud security, and cost optimization.
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== TECH STACK ===================== -->
 <h3 align="center">🛠️ &nbsp; Tech Stack &nbsp; 🛠️</h3>
@@ -72,7 +72,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== AWS SERVICES ===================== -->
 <h3 align="center">🧰 &nbsp; AWS Services</h3>
@@ -102,7 +102,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== EXPERIENCE ===================== -->
 <h3 align="center">💼 &nbsp; Experience</h3>
@@ -123,7 +123,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== BLOG ===================== -->
 <h3 align="center">✍️ &nbsp; Technical Blog</h3>
@@ -149,7 +149,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== CERTIFICATIONS ===================== -->
 <h3 align="center">🏆 &nbsp; Certifications</h3>
@@ -160,19 +160,19 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,24&height=3&width=100%25" />
+![divider](https://user-images.githubusercontent.com/73097560/186079038-8422c69b-8339-4fc4-a1fd-d0b5aa1958ac.gif)
 
 <!-- ===================== GITHUB STATS ===================== -->
 <h3 align="center">📊 &nbsp; GitHub Stats</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C8EBB&icon_color=2C8EBB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C8EBB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantsorout08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A90D9&icon_color=87CEEB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantsorout08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=2C8EBB&fire=FF9900&currStreakLabel=2C8EBB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsorout08&theme=tokyonight&hide_border=true&background=0D1117&ring=4A90D9&fire=87CEEB&currStreakLabel=4A90D9" />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,20,24&height=120&section=footer&text=Building%20scalable%20cloud%20systems%20%E2%9A%A1%20Automating%20everything&fontSize=16&fontColor=ffffff&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4FBE,50:4A90D9,100:87CEEB&height=120&section=footer&text=Building%20scalable%20cloud%20systems%20%E2%9A%A1%20Automating%20everything&fontSize=16&fontColor=ffffff&fontAlignY=70" />
